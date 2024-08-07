@@ -9,8 +9,9 @@ This program is a simple contract written in Solidity, a programming language fo
 ```javascript
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
-and from the ERC-20 contract implemented the transfer, mintToken and the burnToken functions.
 ```
+and from the ERC-20 contract implemented the transfer, mintToken and the burnToken functions.
+
 The contract is a child contract to the OZ ERC-20 and the Ownable smart contract.
 
 The smart contract has 7 functions which are explained below.
