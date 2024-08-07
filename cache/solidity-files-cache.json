@@ -1,12 +1,12 @@
 {
   "_format": "hh-sol-cache-2",
   "files": {
-    "/workspace/Meta-Degen/contracts/DegenToken.sol": {
-      "lastModificationDate": 1719364542149,
-      "contentHash": "ca97753016a015de0da34c58e24941a0",
-      "sourceName": "contracts/DegenToken.sol",
+    "/home/gitpod/Game-Token/contracts/GameToken.sol": {
+      "lastModificationDate": 1723056236641,
+      "contentHash": "ad7625520a41f272c1057aed7bb24acc",
+      "sourceName": "contracts/GameToken.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.20",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -33,18 +33,18 @@
         "@openzeppelin/contracts/access/Ownable.sol"
       ],
       "versionPragmas": [
-        "^0.8.18"
+        "^0.8.20"
       ],
       "artifacts": [
-        "DegenToken"
+        "GameToken"
       ]
     },
-    "/workspace/Meta-Degen/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
-      "lastModificationDate": 1719364250837,
+    "/home/gitpod/Game-Token/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol": {
+      "lastModificationDate": 1723055878330,
       "contentHash": "834a0dde221759af42b030253315b086",
       "sourceName": "@openzeppelin/contracts/token/ERC20/ERC20.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.20",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -78,12 +78,12 @@
         "ERC20"
       ]
     },
-    "/workspace/Meta-Degen/node_modules/@openzeppelin/contracts/access/Ownable.sol": {
-      "lastModificationDate": 1719364251005,
+    "/home/gitpod/Game-Token/node_modules/@openzeppelin/contracts/access/Ownable.sol": {
+      "lastModificationDate": 1723055878534,
       "contentHash": "e436cea06129be2c73cda4b1acc848b5",
       "sourceName": "@openzeppelin/contracts/access/Ownable.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.20",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -115,12 +115,12 @@
         "Ownable"
       ]
     },
-    "/workspace/Meta-Degen/node_modules/@openzeppelin/contracts/utils/Context.sol": {
-      "lastModificationDate": 1719364250789,
+    "/home/gitpod/Game-Token/node_modules/@openzeppelin/contracts/utils/Context.sol": {
+      "lastModificationDate": 1723055878222,
       "contentHash": "5f2c5c4b6af2dd4551027144797bc8be",
       "sourceName": "@openzeppelin/contracts/utils/Context.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.20",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -150,12 +150,12 @@
         "Context"
       ]
     },
-    "/workspace/Meta-Degen/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
-      "lastModificationDate": 1719364250965,
+    "/home/gitpod/Game-Token/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol": {
+      "lastModificationDate": 1723055878462,
       "contentHash": "ad7c2d0af148c8f9f097d65deeb4da6b",
       "sourceName": "@openzeppelin/contracts/token/ERC20/IERC20.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.20",
         "settings": {
           "optimizer": {
             "enabled": false,
@@ -185,12 +185,12 @@
         "IERC20"
       ]
     },
-    "/workspace/Meta-Degen/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
-      "lastModificationDate": 1719364250965,
+    "/home/gitpod/Game-Token/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol": {
+      "lastModificationDate": 1723055878462,
       "contentHash": "909ab67fc5c25033fe6cd364f8c056f9",
       "sourceName": "@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
       "solcConfig": {
-        "version": "0.8.18",
+        "version": "0.8.20",
         "settings": {
           "optimizer": {
             "enabled": false,
