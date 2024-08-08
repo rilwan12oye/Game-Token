@@ -173,8 +173,11 @@ contract GameToken is ERC20, Ownable {
 - Once the code is compiled, you can deploy the contract by clicking the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "AvalToken" contract from the dropdown menu, and then click on the "Deploy" button.
 
 - Once the contract is deployed, you can interact with it the contract.
+  
+# Contract Address (Snowtrace)
+[0xb80Be8ab1459d977363c21cC9a144878F4675888](https://testnet.snowtrace.io/address/0xb80Be8ab1459d977363c21cC9a144878F4675888)
 
-#@ Contract Interaction (Snowtrace)
+# Interaction
 ![Snowtrace_Interaction](https://github.com/rilwan12oye/Game-Token/blob/master/Screenshot_20240808_142031.png)
 
 ## Authors
