@@ -175,15 +175,17 @@ contract GameToken is ERC20, Ownable {
 - Once the contract is deployed, you can interact with it the contract.
   
 # Contract Address (Snowtrace)
+
 [0xb80Be8ab1459d977363c21cC9a144878F4675888](https://testnet.snowtrace.io/address/0xb80Be8ab1459d977363c21cC9a144878F4675888)
 
 # Interaction
+
 ![Snowtrace_Interaction](https://github.com/rilwan12oye/Game-Token/blob/master/Screenshot_20240808_142031.png)
 
-## Authors
+# Authors
 
 Rilwan Oyewole
 
-## License
+# License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
