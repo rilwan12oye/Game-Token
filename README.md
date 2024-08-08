@@ -175,7 +175,7 @@ contract GameToken is ERC20, Ownable {
 - Once the contract is deployed, you can interact with it the contract.
 
 #@ Contract Interaction (Snowtrace)
-![](https://testnet.snowtrace.io/address/0xb80Be8ab1459d977363c21cC9a144878F4675888)
+![Snowtrace_Interaction](https://testnet.snowtrace.io/address/0xb80Be8ab1459d977363c21cC9a144878F4675888)
 
 ## Authors
 
