@@ -30,9 +30,9 @@ Once the ```block.timestamp``` is above the ```regWindow```, registration is clo
 
 ## Executing program
 
-To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
+- To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
-Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., GameToken.sol). Copy and paste the following code into the file:
+- Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., GameToken.sol). Copy and paste the following code into the file:
 
 ```javascript
 // SPDX-License-Identifier: MIT
@@ -168,16 +168,16 @@ contract GameToken is ERC20, Ownable {
     }   
 }
 ```
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.24" (or another compatible version), and then click on the "Compile GameToken.sol" button.
+- To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.24" (or another compatible version), and then click on the "Compile GameToken.sol" button.
 
-Once the code is compiled, you can deploy the contract by clicking the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "AvalToken" contract from the dropdown menu, and then click on the "Deploy" button.
+- Once the code is compiled, you can deploy the contract by clicking the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "AvalToken" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it the contract.
+- Once the contract is deployed, you can interact with it the contract.
 
-# Authors
+## Authors
 
 Rilwan Oyewole
 
-# License
+## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
