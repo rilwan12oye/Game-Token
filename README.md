@@ -178,10 +178,10 @@ contract GameToken is ERC20, Ownable {
 
 [0xb80Be8ab1459d977363c21cC9a144878F4675888](https://testnet.snowtrace.io/address/0xb80Be8ab1459d977363c21cC9a144878F4675888)
 
-# Interaction
-https://www.loom.com/share/9a760d99550b40608cfe91fe41100d21?sid=82f3d841-7242-4af6-bb7d-3b8c9060ebdd
 
-![Snowtrace_Interaction](https://github.com/rilwan12oye/Game-Token/blob/master/Screenshot_20240808_142031.png)
+# Interaction
+
+https://www.loom.com/share/9a760d99550b40608cfe91fe41100d21?sid=82f3d841-7242-4af6-bb7d-3b8c9060ebdd
 
 # Authors
 
