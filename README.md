@@ -181,7 +181,7 @@ contract GameToken is ERC20, Ownable {
 
 # Interaction
 
-https://www.loom.com/share/9a760d99550b40608cfe91fe41100d21?sid=82f3d841-7242-4af6-bb7d-3b8c9060ebdd
+https://www.loom.com/share/9a760d99550b40608cfe91fe41100d21?sid=3d3ad911-975e-4979-a84b-6a2e13230fd1
 
 # Authors
 
